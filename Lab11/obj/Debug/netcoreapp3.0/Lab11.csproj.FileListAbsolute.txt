@@ -1,0 +1,11 @@
+/Users/khyland/Documents/GrandCircusProjects/Lab11/Lab11/bin/Debug/netcoreapp3.0/Lab11
+/Users/khyland/Documents/GrandCircusProjects/Lab11/Lab11/bin/Debug/netcoreapp3.0/Lab11.deps.json
+/Users/khyland/Documents/GrandCircusProjects/Lab11/Lab11/bin/Debug/netcoreapp3.0/Lab11.runtimeconfig.json
+/Users/khyland/Documents/GrandCircusProjects/Lab11/Lab11/bin/Debug/netcoreapp3.0/Lab11.runtimeconfig.dev.json
+/Users/khyland/Documents/GrandCircusProjects/Lab11/Lab11/bin/Debug/netcoreapp3.0/Lab11.dll
+/Users/khyland/Documents/GrandCircusProjects/Lab11/Lab11/bin/Debug/netcoreapp3.0/Lab11.pdb
+/Users/khyland/Documents/GrandCircusProjects/Lab11/Lab11/obj/Debug/netcoreapp3.0/Lab11.csprojAssemblyReference.cache
+/Users/khyland/Documents/GrandCircusProjects/Lab11/Lab11/obj/Debug/netcoreapp3.0/Lab11.AssemblyInfoInputs.cache
+/Users/khyland/Documents/GrandCircusProjects/Lab11/Lab11/obj/Debug/netcoreapp3.0/Lab11.AssemblyInfo.cs
+/Users/khyland/Documents/GrandCircusProjects/Lab11/Lab11/obj/Debug/netcoreapp3.0/Lab11.dll
+/Users/khyland/Documents/GrandCircusProjects/Lab11/Lab11/obj/Debug/netcoreapp3.0/Lab11.pdb
